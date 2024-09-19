@@ -1,0 +1,212 @@
+--- Page 1 ---
+National ID
+Pin
+
+Status
+
+fis Status
+
+Lock Flag
+Voter Na
+
+Farm No
+
+খত
+
+Tag
+Name(Bangla)
+Name(English)
+Date of Birth
+Birth Place
+
+Birth Other
+Birth Registration
+No
+
+Father Name
+Mather Name
+Spouse Name
+Gender
+
+Marital
+Occupation
+Disability
+Disability Other
+Present Address
+
+Permanent Address
+
+Education
+Education Other
+Education Sub
+Identification
+
+1028261863,
+
+1 9971812828000327
+
+checked
+
+NO MATCH
+
+N
+
+1 51288000782
+
+45525751
+
+1597
+
+halnagad_2017
+
+উর্ষিলা হাবিবা
+
+Urmila Habiba
+
+1997-04-20
+
+চট্টগ্রাম
+
+19615132650113644
+
+নুরুল আলম
+
+রোকসানা মমতাজ
+
+fernale
+
+unmarried
+
+ছাব/ছাতী
+
+Division চট্টগ্রাম District
+
+RO ceil) City
+Corporation
+or
+Municipality
+
+upeaila ফটিকছড়ি Union/Ward
+
+Mouza/Mohalla ধর্ষপুর Additional
+Mouza/Moholl
+
+ward For 4 village/Road
+
+Union
+
+Porishod
+
+Additional Home/Halding
+
+village/Road No
+
+Post Office ধর্মপুর Postal Code
+
+Region beara
+
+Division beara District
+
+RO পল্লী) City
+Corporation
+or
+Municipality
+
+upeaila ফটিকছড়ি (আখতার
+
+Mouza/Mohalla ধর্মপুর Additional
+Mouza/Moholl
+
+ward For 4 village/Road
+
+Union
+
+Porishod
+
+Additional Home/Halding
+
+village/Road No
+
+Post Office ধর্মপুর Postal Code
+
+Region beara
+
+Seats বা সমতুল্য
+
+Voter Documents
+
+» BIRTH CERTIFICATE
+* OTHER
+
+» VOTEREORM
+» VOTER FORM
+
+BESTT
+
+ধর্মপুর
+
+ধর্মপুর
+
+জজ বাড়ী
+৪০৫১
+
+চট্টগ্রাম
+
+ধর্মপুর
+
+ধর্মপুর
+
+জজ বাড়ী
+
+০৫১
+
+--- Page 2 ---
+Blood Group Ae
+TIN
+
+Driving
+
+Passport
+
+Laptop 10 41533_0000
+
+NID Father
+
+NID Mother 1512328585108
+Nid Spouse
+
+Voter No Father 151222000352
+Voter No Mother
+
+Voter No Spouse
+
+Phone
+Mobile one12133671
+
+Religion islam
+
+Religion Other
+
+Desth Date Of
+
+Father
+
+Desth Date Of
+
+Mother
+
+Desth Date OF
+
+Spouse
+
+No Finger ০
+
+No Finger Print ০
+
+Voter Area ধর্মপুর (8 নং ওয়ার্ড অংশ) (151238)
+Voter At present
+
+Updsted By hasina.begum
+
+Updated On 2023-10-01 22280
+

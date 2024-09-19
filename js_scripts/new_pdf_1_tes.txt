@@ -1,0 +1,141 @@
+National ID 3750017133
+
+Pin 19942696635000623
+Status printed
+
+Afis Status NO_MATCH
+
+Lock Flag N
+
+Death
+
+Voter No 261404001161
+
+Form No 24316562
+
+9৭০ 3236
+
+Tag voter_2013
+Name(Bangla) মোঃ মিলন হাওলাদার
+Name(English) MD. MILON HOWLADAR
+Date of Birth 1994-12-31
+
+Birth Place ঢাকা
+
+
+
+Birth Other
+
+Birth Registration No
+
+Father Name
+
+মোঃ আশ্রাফ আলী
+
+Mother Name
+
+মোসাঃ তহমিনা বেগম
+
+Spouse Name
+
+Gender male
+Marital unmarried
+Occupation শ্রমিক
+Disability
+Disability Other
+Present Address Division ঢাকা District ঢাকা
+RMO 9 City Corporation Or ঢাকা উত্তর সিটি
+Municipality কর্পোরেশন
+Upozila রমনা Union/Ward ওয়ার্ড ন-৩৫
+Mouza/Moholla Additional -
+Mouza/Moholla
+Ward For Union Village/Road
+Porishod
+Additional পাগলা মাজার Home/HoldingNo ২৩৬
+Village/Road
+Post Office শান্তিনগর টি এস ও Postal Code ১২১৭
+Region ঢাকা
+Permanent Address __ {Division বরিশাল District বরগুনা
+
+
+
+RMO 1
+
+City Corporation Or
+
+Municipality
+Upozila বরগুনা সদর Union/Ward বুড়িরচর
+Mouza/Moholla Additional -
+Mouza/Moholla
+Ward For Union 6 Village/Road
+Porishod
+Additional বুড়ির চর Home/HoldingNo -
+Village/Road
+Post Office চালতা কাউনিয়া Postal Code ৮৭০০
+Region বরিশাল
+Education ৮ম শ্রেণী
+Education Other
+Education Sub
+Identification
+Blood Group
+TIN
+Driving
+Passport
+NID Father 2696654293950
+NID Mother 2696654293951
+Nid Spouse
+
+Voter No Father
+
+
+
+Voter No Mother
+
+Voter No Spouse
+
+Phone
+
+Mobile
+
+01724639798
+
+Religion
+
+Islam
+
+Religion Other
+
+Death Date Of Father
+
+Death Date Of Mother
+
+Death Date Of
+Spouse
+
+No Finger
+
+0
+
+No Finger Print
+
+0
+
+Voter Area
+
+উত্তর নয়াটোলা ১ম ভাগ(পশ্চিম অংশ) (261404)
+
+Voter At
+
+present
+
+
+
+Photo
+
+Signature
+
+Voter Documents:
+VOTER_FORM
+VOTER_FORM
+
+

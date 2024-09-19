@@ -1,0 +1,110 @@
+Page 1 Text:
+National ID 1028261863
+Pin 19971513328000327 ek ;
+Status checked এ] » *
+Afis Status NO_MATCH m _
+Lock Flag N ' ae |
+Voter No 151238000783 - ~~ :
+Form No 45535751 . _ *
+SI No 1597 op ; z
+Tag halnagad_2017
+Name(Bangla) উর্মিলা হাবিবা
+Name(English) Urmila Habiba
+Date of Birth 1997-04-20
+Birth Place চট্টগ্রাম
+Birth Other
+Birth Registration 19615133850113644 Voter Documents
+No e BIRTH CERTIFICATE
+Father Name নুরুল আলম e OTHER
+Mother Name রোকসানা মমতাজ e VOTER FORM
+Spouse Name * VOTER FORM
+Gender female
+Marital unmarried
+Occupation ছাত্র/ছাত্রী
+Disability
+Disability Other
+Present Address Division চট্টগ্রাম District চট্টগ্রাম
+RMO পল্লী (1) City
+Corporation
+Or
+Municipality
+Upozila ফটিকছড়ি Union/Ward ধর্মপুর
+Mouza/Moholla ধর্মপুর Additional
+Mouza/Moholla
+Ward For 4 Village/Road ধর্মপুর
+Union
+Porishod
+Additional Home/Holding জজ বাড়ী
+Village/Road No
+Post Office ধর্মপুর Postal Code ৪৩৫১
+Region চট্টগ্রাম
+Permanent Address Division চট্টগ্রাম District চট্টগ্রাম
+RMO পল্লী (1) City
+Corporation
+Or
+Municipality
+Upozila ফটিকছড়ি Union/Ward ধর্মপুর
+Mouza/Moholla ধর্মপুর Additional
+Mouza/Moholla
+Ward For 4 Village/Road ধর্মপুর
+Union
+Porishod
+Additional Home/Holding জজ বাড়ী
+Village/Road No
+Post Office ধর্মপুর Postal Code ৪৩৫১
+Region চট্টগ্রাম
+Education উচ্চ মাধ্যমিক বা সমতুল্য
+Education Other
+Education Sub
+Identification
+
+
+Page 2 Text:
+Blood Group A+
+
+TIN
+
+Driving
+
+Passport
+
+Laptop ID 1533__0000
+NID Father
+
+NID Mother 1513328585108
+Nid Spouse
+
+Voter No Father 151328000352
+Voter No Mother
+
+Voter No Spouse
+
+Phone
+
+Mobile 01812133871
+Religion Islam
+
+Religion Other
+
+Death Date Of
+
+Father
+
+Death Date Of
+
+Mother
+
+Death Date Of
+
+Spouse
+
+No Finger 0
+
+No Finger Print 0
+
+Voter Area ধর্মপুর (8 নং ওয়ার্ড অংশ) (151238)
+Voter At present
+Updated By hasina.begum
+Updated On 2023-10-01 22:28:01
+
+

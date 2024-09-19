@@ -1,0 +1,22 @@
+{
+    "presentAddress": {
+        "homeHoldingNo": "১৭৩/১,আরামবাগ",
+        "villageRoadAdditional": "",
+        "mouzaMohollaAdditional": "আরামবাগ",
+        "postOffice": "জিপিও",
+        "postalCode": "1000",
+        "upozila": "মতিঝিল",
+        "cityCorporation": "ঢাকা দক্ষিণ সিটি",
+        "district": "ঢাকা"
+    },
+    "permanentAddress": {
+        "homeHoldingNo": "",
+        "villageRoadAdditional": "নাকজাটিয়া",
+        "mouzaMohollaAdditional": "",
+        "postOffice": "সিরাং বাজার",
+        "postalCode": "",
+        "upozila": "লাকসাম",
+        "cityCorporation": "",
+        "district": "কুমিল্লা"
+    }
+}

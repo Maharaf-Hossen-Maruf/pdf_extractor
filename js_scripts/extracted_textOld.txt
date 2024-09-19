@@ -1,0 +1,144 @@
+National ID 5082303487
+Pin 19802695432989341
+Status printed
+
+[Afis Status NO_MATCH
+Lock Flag N
+
+Death
+
+Voter No 261187989341
+Form No 1989341
+
+91০ 5097
+
+Tag old
+Name(Bangla) মোঃ সোহেল
+Name(English) Md. Shohel
+Date of Birth 1980-03-02
+Birth Place কুমিল্লা
+
+
+
+Birth Other
+
+Birth Registration No
+
+Father Name cats হোসাইন আহমেদ
+
+Mother Name সালেহা বেগম
+
+Spouse Name
+
+Gender male
+
+Marital unmarried
+
+Occupation ব্যবসা
+
+Disability
+
+Disability Other
+
+Present Address Division ঢাকা District ঢাকা
+নি/০ 9 City Corporation 01 ঢাকা দক্ষিণ সিটি
+
+Municipality কর্পোরেশন
+Upozila মতিঝিল Union/Ward ওয়ার্ড ন-০৯
+Mouza/Moholla Additional আরামবাগ
+Mouza/Moholla
+
+Ward For Union ০ Village/Road
+Porishod
+Additional Home/HoldingNo ১৭৩/১আরামবাগ
+Village/Road
+Post Office জিপিও Postal Code 1000
+Region ঢাকা
+
+Permanent Address _ Division pear District কুমিল্লা
+
+
+
+RMO 1 City Corporation Or
+Municipality
+
+Upozila [লাকসাম Union/Ward মুদাফফরগঞ্জ দক্ষিণ
+
+Mouza/Moholla Additional
+Mouza/Moholla
+
+Ward For Union 5 Village/Road
+
+Porishod
+
+\Additional [নাকজাটিয়া Home/HoldingNo
+
+Village/Road
+
+Post Office Frag বাজার Postal Code
+
+Region কুমিল্লা
+
+Education os শ্রেণী
+
+Education Other
+
+Education Sub
+
+Identification
+
+Blood Group
+
+TIN
+
+Driving
+
+Passport
+
+NID Father
+
+NID Mother
+
+Nid Spouse
+
+Voter No Father
+
+
+
+‘Voter No Mother
+
+Voter No Spouse
+
+Phone
+
+Mobile
+
+Religion Islam
+
+Religion Other
+
+Death Date Of Father
+
+Death Date Of Mother
+
+Death Date Of
+
+‘Spouse
+
+No Finger 0
+
+No Finger Print 0
+
+Voter Area 'আরামবাগ(261187)
+
+Voter At present
+
+
+
+Photo
+
+Signature
+
+No Available Voter Documents
+
+

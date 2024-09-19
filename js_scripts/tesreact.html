@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Extract PDF Text with Bengali OCR</title>
+</head>
+<body>
+    <input type="file" id="file-input" />
+    <button id="extract-button">Extract Text</button>
+    <pre id="output"></pre>
+
+    <!-- Load PDF.js library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.6.347/pdf.min.js" integrity="sha512-Z8CqofpIcnJN80feS2uccz+pXWgZzeKxDsDNMD/dJ6997/LSRY+W4NmEt9acwR+Gt9OHN0kkI1CTianCwoqcjQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- Load Tesseract.js library -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/tesseract.js@2.1.0/dist/tesseract.min.js"></script> -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tesseract.js/5.1.1/tesseract.min.js" integrity="sha512-mpQLT7yiRJ06RkhNTYhVnvvr3c71il3h+wEI16ICc+fnFHxrBRoJrMmDJ8iBY04+U/FgTj7xah5Vbltq5pg+aQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    
+    
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('extract-button').addEventListener('click', () => {
+                const fileInput = document.getElementById('file-input');
+                const output = document.getElementById('output');
+
+                if (fileInput.files.length === 0) {
+                    alert('Please select a PDF file.');
+                    return;
+                }
+
+                const file = fileInput.files[0];
+                const fileReader = new FileReader();
+
+                fileReader.onload = function() {
+                    const typedArray = new Uint8Array(this.result);
+
+                    pdfjsLib.getDocument(typedArray).promise.then(pdf => {
+                        const numPages = pdf.numPages;
+                        let textPromises = [];
+
+                        for (let i = 1; i <= numPages; i++) {
+                            textPromises.push(pdf.getPage(i).then(page => {
+                                const viewport = page.getViewport({ scale: 1 });
+                                const canvas = document.createElement('canvas');
+                                const ctx = canvas.getContext('2d');
+                                canvas.height = viewport.height;
+                                canvas.width = viewport.width;
+                                const renderContext = {
+                                    canvasContext: ctx,
+                                    viewport: viewport
+                                };
+                                return page.render(renderContext).promise.then(() => {
+                                    return new Promise((resolve, reject) => {
+                                        Tesseract.recognize(
+                                            canvas,
+                                            'ben', // Bengali language code
+                                            {
+                                                logger: info => console.log(info)
+                                            }
+                                        ).then(({ data: { text } }) => {
+                                            resolve(text);
+                                        }).catch(reject);
+                                    });
+                                });
+                            }));
+                        }
+
+                        Promise.all(textPromises).then(texts => {
+                            output.textContent = texts.join('\n\n');
+                        }).catch(error => {
+                            console.error('Error with OCR:', error);
+                        });
+                    }).catch(error => {
+                        console.error('Error loading PDF:', error);
+                    });
+                };
+
+                fileReader.readAsArrayBuffer(file);
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+Page 1 Text:
+Citizen
+National ID 5538202481
+Pin 19917511028000215
+Status printed
+Afis Status NO_MATCH
+Lock Flag N
+Voter No 750757000064
+Form No 19269476
+SI No 302
+Tag left_out
+=R Ao
+Name(Bangla)
+Name(English) Habiba Khatun afaa
+Date of Birth 1991-03-11
+ATl
+Birth Place
+Birth Other
+Voter Documents
+Birth Registration 19917511076012690
+e VOTER FORM
+No
+S e e VOTER FORM
+Father Name
+Mother Name [SRRIAVCRE]
+Spouse Name IR (RO
+Gender female
+Marital married
+SRR
+Occupation
+Disability
+Disability Other
+Present Address Division District
+RMO City
+Corporation
+Or
+Municipality
+Upozila Union/Ward 2T fror
+Mouza/Moholla =R Additional
+Mouza/Moholla
+Ward For Village/Road
+Union
+Porishod
+Additional Home/Holding
+Village/Road No
+Post Office Postal Code
+Region
+Permanent Address Division District
+RMO City
+Corporation
+Or
+Municipality
+Upozila Union/Ward e fror
+Mouza/Moholla =R Additional
+Mouza/Moholla
+Ward For Village/Road r=EfeT
+Union
+Porishod
+Additional Home/Holding HIOTY et
+=& MG
+Village/Road No
+(NQ)
+Post Office ferorer Postal Code oy
+Region
+b
+Education
+Page 2 Text:
+Education Other
+Education Sub
+Identification
+Blood Group
+TIN
+Driving
+Passport
+Laptop ID 7510__4391
+NID Father 19717511076000002
+NID Mother 7511076661656
+Nid Spouse
+Voter No Father
+Voter No Mother
+Voter No Spouse
+Phone
+Mobile
+Religion Islam
+Religion Other
+Death Date Of
+Father
+Death Date Of
+Mother
+Death Date Of
+Spouse
+No Finger 0
+No Finger Print 0
+Voter Area ARFAAAHN) (750757)
+Voter At permanent
